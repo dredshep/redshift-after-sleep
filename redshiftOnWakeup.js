@@ -19,6 +19,7 @@ function resetRedshift() {
 }
 
 function main() {
+  resetRedshift();
   wasComputerAsleep(function () {
     setTimeout(resetRedshift, 6000);
   });
