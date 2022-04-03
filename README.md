@@ -1,3 +1,9 @@
+# Requirements
+
+Have redshift installed.
+
+# Setup instructions
+
 ```sh
 # Make sure nodejs is installed, and npm
 # if no yarn
